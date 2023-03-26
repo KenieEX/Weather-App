@@ -50,4 +50,4 @@ document
    }
    });
 
-weather.fetchWeather("Belgorod");
+weather.fetchWeather("Belgorod"); //Here you can change the initial weather screen to any other city
